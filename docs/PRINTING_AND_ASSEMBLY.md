@@ -21,9 +21,11 @@ The two halves are designed to be assembled as a clamshell around the internal p
 
 ## Hardware
 
+The tested final assembly reuses the **three PTFE quick-release/quick-connect fittings from an original Bambu Lab 4-to-1 PTFE splitter**. They were removed from the existing Bambu unit and installed directly into ZeroResistSplit. The connector recess dimensions in v2.7 were tuned around these parts.
+
 Recommended hardware:
 
-- 3 x PTFE quick-connect fittings, approximately 7 mm OD at the inserted section
+- 3 x original Bambu Lab 4-to-1 PTFE splitter quick-connect fittings
 - 4 mm OD / approximately 2.5 mm ID PTFE tubing
 - 2 x M3 hex-head screws
 - Optional small amount of adhesive
@@ -39,11 +41,13 @@ Each port is designed as:
 3. PTFE tubing extending **10 mm past the fitting** into the body
 4. Printed filament guide meeting the PTFE at a **2.5 mm filament opening**
 
-The quick-connect fitting OD is nominally 7.0 mm. The final printed recess is 7.1 mm after fit testing.
+The reused Bambu Lab quick-connect fitting has an inserted outside diameter of approximately 7.0 mm. The final printed recess is 7.1 mm after physical fit testing with those original Bambu fittings.
 
 ### Important
 
 Do not enlarge the 4.0 mm PTFE bore to compensate for quick-connect fitting fit. The connector recess and PTFE bore serve different functions and should be adjusted independently.
+
+Because the final fit was developed around the original Bambu Lab 4-to-1 fittings, third-party fittings with different outside dimensions may require a connector-recess adjustment.
 
 ## Adhesive
 

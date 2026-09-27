@@ -24,6 +24,8 @@ The input and output fitting faces remain flat.
 
 ## PTFE and connector interfaces
 
+The final physical build uses the **three original PTFE quick-release/quick-connect fittings removed from a Bambu Lab 4-to-1 PTFE splitter**. The fitting recess dimensions below were tuned by printing and testing against those actual Bambu parts.
+
 | Feature | Final value |
 | --- | ---: |
 | Nominal quick-connect fitting OD | 7.0 mm |
@@ -34,9 +36,11 @@ The input and output fitting faces remain flat.
 | Printed PTFE guide bore | 4.0 mm |
 | PTFE extension beyond fitting into body | 10 mm on all 3 ports |
 
-The 7.1 mm fitting recess was chosen after physical fit testing. The earlier 7.2 mm recess was slightly too loose and could allow fittings to pull out.
+The 7.1 mm fitting recess was chosen after physical fit testing with the original Bambu Lab 4-to-1 fittings. The earlier 7.2 mm recess was slightly too loose and could allow fittings to pull out.
 
 The PTFE bore remains 4.0 mm. It should not be enlarged to solve fitting-fit issues; fitting clearance is controlled separately by the 7.1 mm connector recess.
+
+Third-party quick-connect fittings may differ dimensionally and should be measured before assuming a direct fit.
 
 ## Internal filament guide
 

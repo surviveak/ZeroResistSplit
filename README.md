@@ -8,6 +8,20 @@
 
 ![ZeroResistSplit Prototype A revision progression through v2.7 Final](assets/zeroresistsplit-prototype-revisions.jpg)
 
+### Installed on the Bambu Lab H2C
+
+The following photos show the completed v2.7 splitter installed in the working filament path.
+
+![ZeroResistSplit v2.7 installed on Bambu Lab H2C — internal view](assets/installed/ZeroResistSplit_H2C_installed_01.jpg)
+
+![ZeroResistSplit v2.7 installed on Bambu Lab H2C — filament path view](assets/installed/ZeroResistSplit_H2C_installed_02.jpg)
+
+![ZeroResistSplit v2.7 installed on Bambu Lab H2C — full setup](assets/installed/ZeroResistSplit_H2C_installed_03.jpg)
+
+![ZeroResistSplit v2.7 installed on Bambu Lab H2C — external routing](assets/installed/ZeroResistSplit_H2C_installed_04.jpg)
+
+![ZeroResistSplit v2.7 installed on Bambu Lab H2C — rear filament routing](assets/installed/ZeroResistSplit_H2C_installed_05.jpg)
+
 The current final prototype is **v2.7**.
 
 ## Why this exists

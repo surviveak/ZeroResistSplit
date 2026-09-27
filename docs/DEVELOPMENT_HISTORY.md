@@ -18,6 +18,8 @@ Informal pull-force results:
 
 The goal became preserving the straight TPU path while giving the regular path a much longer, shallower transition.
 
+The final ZeroResistSplit assembly also deliberately **reuses the three PTFE quick-release/quick-connect fittings from the original Bambu Lab 4-to-1 PTFE splitter** rather than replacing them with generic fittings.
+
 ## Early concept work
 
 Two concepts were considered:
@@ -51,8 +53,10 @@ Measured/confirmed hardware dimensions:
 
 - PTFE OD: 4.0 mm
 - PTFE ID: approximately 2.5 mm
-- Quick-connect inserted OD: approximately 7.0 mm
+- Bambu Lab 4-to-1 quick-connect inserted OD: approximately 7.0 mm
 - Quick-connect insertion depth: 5 mm
+
+The three quick-connect fittings used for development and the final build were taken directly from the existing Bambu Lab 4-to-1 PTFE splitter. This allowed the new printed body to reuse known-good Bambu hardware.
 
 The design was updated so the PTFE tube, not an oversized printed void, continues beyond the fitting before meeting the internal filament guide.
 
@@ -131,5 +135,6 @@ Final tested notes:
 - ABS is useful for a stronger engineering build, but PETG and PLA are also suitable.
 - A thin layer of glue at contact points helps keep the body and quick-connect fittings extremely secure.
 - M3 hex-head screws are used.
+- The three quick-connect fittings in the tested final assembly are the original parts removed from a Bambu Lab 4-to-1 PTFE splitter.
 
 v2.7 is the current final design.

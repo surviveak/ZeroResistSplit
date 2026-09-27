@@ -2,6 +2,15 @@
 
 **ZeroResistSplit** is a low-resistance 2-to-1 filament splitter/merger designed for a dedicated TPU path plus a regular-filament path. The goal was to reduce the drag created by steep PTFE bends and abrupt internal transitions while keeping the assembly compact, printable, and compatible with common 4 mm OD PTFE tubing and the original Bambu Lab 4-to-1 PTFE splitter quick-connect fittings.
 
+<p align="center">
+  <img src="assets/ZeroResistSplit_v2.7_top_real_world_dimensions.jpg" alt="ZeroResistSplit v2.7 top-view dimensions" width="48%">
+  <img src="assets/ZeroResistSplit_v2.7_side_real_world_dimensions.jpg" alt="ZeroResistSplit v2.7 side-view dimensions" width="48%">
+</p>
+
+<p align="center">
+  <img src="assets/zeroresistsplit-prototype-revisions.jpg" alt="ZeroResistSplit Prototype A revision progression through v2.7 Final" width="70%">
+</p>
+
 The current final prototype is **v2.7**.
 
 ## Why this exists
